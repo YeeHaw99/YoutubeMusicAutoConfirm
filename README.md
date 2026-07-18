@@ -1,1 +1,1 @@
-# YoutubeMusicExplicitBypass
+# YoutubeMusicAutoConfirm
